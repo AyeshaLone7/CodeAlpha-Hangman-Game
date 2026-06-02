@@ -39,6 +39,6 @@ Start guessing letters and enjoy the game! 🎮
   
 6.**Author**
   
-Name: Ayesha
+Name: Ayesha Abdul Aziz 
 
 Internship: CodeAlpha Python Programming!

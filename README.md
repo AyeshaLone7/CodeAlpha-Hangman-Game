@@ -21,13 +21,8 @@ The game picks a random word and the player guesses it letter by letter.
 - `if-else` statements
 - Strings and Lists
 
-5. 📸 Game Output
-
-
-![Game Output](1780402259245.jpg)
-
   
-6.Author
+5.Author
   
 Name: Ayesha
 

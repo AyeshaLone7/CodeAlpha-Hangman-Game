@@ -1,6 +1,6 @@
 import random
 
-words = ["Ayesha", "computer", "Codealpha", "hangman", "coding"]
+words = ["Ayesha", "computer", "codealpha", "hangman", "coding"]
 
 def display_word(word, guessed_letters):
     display = []

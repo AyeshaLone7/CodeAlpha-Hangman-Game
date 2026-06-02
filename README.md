@@ -24,4 +24,5 @@ The game picks a random word and the player guesses it letter by letter.
 5.Author
   
 Name: Ayesha
+
 Internship: CodeAlpha Python Programmin

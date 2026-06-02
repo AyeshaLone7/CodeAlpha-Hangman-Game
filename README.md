@@ -1,4 +1,4 @@
-1. Hangman Game
+1. Hangman Game🎮
    
 A simple text-based Hangman game built with Python.
 
@@ -20,8 +20,14 @@ The game picks a random word and the player guesses it letter by letter.
 - `while` loop
 - `if-else` statements
 - Strings and Lists
+
+5. 📸 Game Output
+
+
+![Game Output](1780402259245.jpg)
+
   
-5.Author
+6.Author
   
 Name: Ayesha
 

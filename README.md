@@ -26,13 +26,13 @@ The game picks a random word and the player guesses it letter by letter.
  
 Make sure Python is installed on your system
 
-Download `Hangman Game Code` file
+Download `Hangman Game Code.py` file
 
 Open terminal/command prompt
 
 Run this command:
 
-```python Hangman Game Code```
+```python Hangman Game Code.py```
 
 Start guessing letters and enjoy the game! 🎮
 
